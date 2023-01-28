@@ -1,2 +1,2 @@
-# CS231A_Final_Project
+# CS231A Final Project
 Stanford CS231A 

@@ -13,5 +13,7 @@ Stanford CS231A
 # Digging Into Self-Supervised Monocular Depth Estimation
 * https://arxiv.org/abs/1806.01260
 * https://github.com/nianticlabs/monodepth2
-test
+
+# Experiment Table
+https://docs.google.com/spreadsheets/d/1t0ran4a4eXaNEoDyErgfqtf-Tq51PjR9S1R95_9LmD8/edit?usp=sharing
 

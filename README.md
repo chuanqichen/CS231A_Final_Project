@@ -1,5 +1,4 @@
-# CS231A Final Project
-Stanford CS231A 
+# Stanford CS231A Final Project: Self-supervised Monocular Depth Estimation with Semantic Guidance
 
 # Experiment Result Using KITTI Depth Prediction Dataset
 The evaluation metrics we use include absolute relative error (Abs Rel), square relative error (Sq Rel), root mean square error (RMSE), log root mean square error (RMSElog), and the ratio of pixels has error smaller than $1.25$, $1.25^2$, and $1.25^3$.

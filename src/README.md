@@ -1,5 +1,7 @@
-# FSRE-Depth
-## Add mobilenetv2 and vovnet v2 encoder
+# Self-supervised Monocular Depth Estimation with Semantic Guidance
+## Add mobilenetv2 
+## Add VovNet v2 encoder
+
 ### Usage
 ```
 --encoder (resnet, mbnetv2, vovnet)

@@ -1,6 +1,6 @@
 # Self-supervised Monocular Depth Estimation with Semantic Guidance
-## Add mobilenetv2 
-## Add VovNet v2 encoder
+* Add mobilenetv2 
+* Add VovNet v2 encoder
 
 ### Usage
 ```

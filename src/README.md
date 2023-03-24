@@ -1,13 +1,13 @@
 # Self-supervised Monocular Depth Estimation with Semantic Guidance
-* Add mobilenetv2 
-* Add VovNet v2 encoder
-* 
 
 ## Introduction
 In monocular depth estimation, recent researches show that the 
 unsupervised or self-supervised methods are often more attractive than supervised ones, since they avoid collecting large amount of depth data which are often impractical in various real world scenarios. Additionally, the accuracy of depth estimation can be enhanced by fusing geometric representation from semantic information of images into depth features using different attention mechanism to guide the depth prediction. In this study, we reproduce the results of \cite{jung2021fine, ROIFormer} and deeply study the attention methods used in these two depth-semantic fusion modules. Furthermore we design a new self-adaptive attention method and compare the performances of these three ways of attention via extensive experiments on KITTI dataset \cite{KITTI}. In addition, we spend efforts on lightweight monocular depth estimation models which enables the possibility of real-time inference on an embedded platform with lower power consumption. Our new self-adaptive attention methods with lightweight models outperform \cite{jung2021fine} and are on par with \cite{ROIFormer} but with faster training and more efficient inference
 
 ### Usage
+* Add mobilenetv2 
+* Add VovNet v2 encoder 
+
 ```
 --encoder (resnet, mbnetv2, vovnet)
 ```
